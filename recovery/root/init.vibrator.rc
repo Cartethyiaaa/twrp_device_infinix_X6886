@@ -1,4 +1,0 @@
-on init
-    insmod /vendor/lib/modules/adaptive-ts.ko
-    insmod /vendor/lib/modules/focaltech_noflash_common.ko
-    insmod /vendor/lib/modules/omnivision_td4376.ko
